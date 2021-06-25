@@ -11,3 +11,15 @@
 	display: table;
 	clear: both;
 }
+.conteiner {
+    width: 80%;
+    margin: auto;
+}
+
+/* Header  */
+header {
+    height: 150px;
+    background-color: #e579e6;
+    margin-top: 25px;
+}
+
