@@ -25,7 +25,7 @@ header {
 
 /* Main */
 section {
-    height: 500px;
+    height: 700px;
     margin-top: 25px;
 }
 .first-section {
@@ -34,3 +34,25 @@ section {
 .second-section {
     background-color: #0386fc;
 }
+
+.top-2nd-section {
+    height: 10%;
+    background-color: #abcfe7;
+}
+.bottom-2nd-section {
+    height: calc(90% - 40px);
+    margin: 20px 0;
+}
+.bottom-2nd-section div {
+    float: left;
+    background-color: #abcfe7;
+}
+.left-column, .right-column {
+    width: 25%;
+}
+.central-column {
+    width: calc(50% - 40px);
+    margin: 0px 20px;
+}
+
+
