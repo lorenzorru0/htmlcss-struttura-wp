@@ -23,3 +23,14 @@ header {
     margin-top: 25px;
 }
 
+/* Main */
+section {
+    height: 500px;
+    margin-top: 25px;
+}
+.first-section {
+    background-color: #e1d67a;
+}
+.second-section {
+    background-color: #0386fc;
+}
