@@ -45,6 +45,7 @@ section {
 }
 .bottom-2nd-section div {
     float: left;
+    height: 100%;
     background-color: #abcfe7;
 }
 .left-column, .right-column {
