@@ -39,8 +39,8 @@ section {
     background-color: #abcfe7;
 }
 .bottom-2nd-section {
-    height: calc(90% - 40px);
-    margin: 20px 0;
+    height: calc(90%);
+    padding: 20px 0;
 }
 .bottom-2nd-section div {
     float: left;
