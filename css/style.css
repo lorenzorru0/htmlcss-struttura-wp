@@ -13,14 +13,13 @@
 }
 .conteiner {
     width: 80%;
-    margin: auto;
+    margin: 25px auto;
 }
 
 /* Header  */
 header {
     height: 150px;
     background-color: #e579e6;
-    margin-top: 25px;
 }
 
 /* Main */
